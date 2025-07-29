@@ -6,4 +6,4 @@
 👉 Versión 5: 29.7.2025 Se actualiza log copiado para visualización de datos de la copia de seguridad.
 ✅ Verifica siempre las descargas:
 🪪 Checksum SHA256 solo para pycopy5win.exe actualizado 👉 B722BD247D150550AB01D939487BD935C09F999E36A1F977CBEC1A2D325EBE58
-🪪 Checksum SHA256 para descarga pycopy-main.zip 👉 75148D4F30900E2BECACDCDAC6ABC5331DD22DE0A1717AED751DDED5051069FD
+🪪 Checksum SHA256 para descarga pycopy-main.zip actualizado 👉 75148D4F30900E2BECACDCDAC6ABC5331DD22DE0A1717AED751DDED5051069FD
