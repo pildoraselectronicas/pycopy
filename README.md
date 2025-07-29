@@ -3,3 +3,4 @@
 👉 Permite realizar copias de seguridad programadas. 
 👉 Para que funcione correctamente es importante que tengáis instalado la última versión de python en vuestro PC bajo Windows.
 👉 Versión 5: 28.7.2025 Se actualiza para solucionar errores de bloqueos y actualizacion logotipo.
+👉 Versión 5: 29.7.2025 Se actualiza log copiado para visualización de datos de la copia de seguridad.
