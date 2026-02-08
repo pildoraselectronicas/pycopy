@@ -26,5 +26,5 @@ Programa en funcionamiento.
 
 
 
-El programa es muy práctico para Windpws porque permite realizar copia de seguridad de un directorio con carpetas y subcarpetas y las almacena en una ruta de destino comprimida en zip con un log de registro de su contenido. Tambien permite realizar copias de seguridad programadas en el tiempo que el usuario elija.
+El programa es muy práctico para Windpws porque permite realizar copia de seguridad de un directorio con carpetas y subcarpetas y las almacena en una ruta de destino comprimida en zip con un log de registro de su contenido. Tambien permite realizar copias de seguridad programadas en el tiempo que el usuario elija.El programa emite una señal acustica al comienzo de la copia de seguridad y cuando finaliza muestra su resultado final en la carpeta de destino con una señal acústice de 3 pitidos para indicar que ha terminado.
 
