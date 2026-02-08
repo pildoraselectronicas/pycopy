@@ -20,6 +20,11 @@ Pantalla principal
 
 Notas de la versión.
 
+<img width="517" height="495" alt="image" src="https://github.com/user-attachments/assets/4cbbb93b-ca6a-4958-ac29-6b19151b97c7" />
+
+Programa en funcionamiento.
+
+
 
 El programa es muy práctico para Windpws porque permite realizar copia de seguridad de un directorio con carpetas y subcarpetas y las almacena en una ruta de destino comprimida en zip con un log de registro de su contenido. Tambien permite realizar copias de seguridad programadas en el tiempo que el usuario elija.
 
