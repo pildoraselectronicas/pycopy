@@ -7,3 +7,19 @@
 
 🪪 Checksum SHA256 solo para pycopy5win.exe actualizado 👉 B722BD247D150550AB01D939487BD935C09F999E36A1F977CBEC1A2D325EBE58
 🪪 Checksum SHA256 para descarga pycopy-main.zip actualizado 👉 75148D4F30900E2BECACDCDAC6ABC5331DD22DE0A1717AED751DDED5051069FD
+
+
+👉 Capturas de pantalla delaaplicación:
+
+<img width="651" height="622" alt="image" src="https://github.com/user-attachments/assets/f40cf6d7-46f3-480b-bd75-9793a8644cf5" />
+
+
+Pantalla principal
+
+<img width="487" height="341" alt="image" src="https://github.com/user-attachments/assets/dcdfe40d-0255-4fcf-9ba8-6b8bcf9545a5" />
+
+Notas de la versión.
+
+
+El programa es muy práctico para Windpws porque permite realizar copia de seguridad de un directorio con carpetas y subcarpetas y las almacena en una ruta de destino comprimida en zip con un log de registro de su contenido. Tambien permite realizar copias de seguridad programadas en el tiempo que el usuario elija.
+
